@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QLSach</string>
+
+    <!--    Menu -->
+
+    <string name="menu_qlnd">Quản lý người dùng</string>
+    <string name="menu_book">Quản lý sách tồn kho</string>
+
+
+    <!--   Màn hình chào -->
+
+    <string name="splash_hint_enter_account">Nhập tài khoản email</string>
+    <string name="splash_hint_enter_password">Nhập mật khẩu</string>
+    <string name="splash_remember">Ghi nhớ</string>
+    <string name="splash_forgot">Quên mật khẩu</string>
+    <string name="splash_btn_login">Đăng Nhập</string>
+    <string name="splash_or">hoặc</string>
+    <string name="splash_sign_up">Chưa có tài khoản ? <u>Đăng ký</u></string>
+
+
+</resources>
